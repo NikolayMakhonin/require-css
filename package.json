@@ -81,7 +81,6 @@
 		"@typescript-eslint/parser": "^4.3.0",
 		"babel-plugin-root-import": "^6.5.0",
 		"browserslist": "^4.14.1",
-		"caller": "^1.0.1",
 		"caniuse-lite": "^1.0.30001124",
 		"chai": "^4.2.0",
 		"chai-as-promised": "^7.1.1",
@@ -120,5 +119,11 @@
 		"shx": "^0.3.2",
 		"typescript": "^4.0.3",
 		"webrain": "^1.2.2-a"
+	},
+	"dependencies": {
+		"caller": "^1.0.1",
+		"postcss": "^8.1.10",
+		"postcss-js-syntax": "^1.0.7",
+		"resolve-from": "^5.0.0"
 	}
 }
