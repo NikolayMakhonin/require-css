@@ -1,19 +1,18 @@
 {
-	"name": "app-template",
+	"name": "@flemist/require-css",
 	"version": "0.0.1",
-	"description": "App Template",
+	"description": "Require Css",
 	"author": {
-		"name": "App Template",
-		"url": "https://github.com/AppTemplate/",
-		"email": "app-template@mail.com"
+		"name": "Nikolay Makhonin",
+		"url": "https://github.com/NikolayMakhonin/"
 	},
-	"homepage": "https://github.com/AppTemplate/app-template/",
+	"homepage": "https://github.com/NikolayMakhonin/require-css/",
 	"bugs": {
-		"url": "https://github.com/AppTemplate/app-template/issues"
+		"url": "https://github.com/NikolayMakhonin/require-css/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+ssh://git@github.com:AppTemplate/app-template.git"
+		"url": "git+ssh://git@github.com:NikolayMakhonin/require-css.git"
 	},
 	"license": "CC0-1.0",
 	"keywords": [],
