@@ -1,6 +1,6 @@
 {
 	"name": "@flemist/require-css",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Require Css",
 	"author": {
 		"name": "Nikolay Makhonin",
@@ -122,8 +122,10 @@
 	},
 	"dependencies": {
 		"caller": "^1.0.1",
-		"postcss": "^8.1.10",
 		"postcss-js-syntax": "^1.0.7",
 		"resolve-from": "^5.0.0"
+	},
+	"peerDependencies": {
+		"postcss": ">=7.0.0",
 	}
 }
