@@ -126,6 +126,6 @@
 		"resolve-from": "^5.0.0"
 	},
 	"peerDependencies": {
-		"postcss": ">=7.0.0",
+		"postcss": ">=7.0.0"
 	}
 }
